@@ -82,6 +82,14 @@ graph LR
 
 ---
 
+<details>
+<summary>📂 Clique para ver a estrutura completa do projeto</summary>
+
+![Estrutura do projeto](https://github.com/danielgresende/rpa-inteligente/blob/main/tree%20robo.png)
+
+</details>
+
+
 ## 🏆 **RESULTADOS COMPROVADOS EM ESCRITÓRIOS REAIS**
 
 <div align="center">
